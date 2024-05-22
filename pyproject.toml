@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-trajectory"
+description = "ComfyUI Trajectory"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/chaojie/ComfyUI-Trajectory"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Trajectory"
+Icon = ""
